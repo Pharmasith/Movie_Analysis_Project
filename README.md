@@ -1,2 +1,0 @@
-# Movie Analysis Project
- 
